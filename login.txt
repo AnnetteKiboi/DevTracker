@@ -1,1 +1,2 @@
 Login functionality
+Step 1 git add .
